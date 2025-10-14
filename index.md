@@ -1,8 +1,8 @@
 ---
 title: "Welcome"
-permalink: /
 layout: single
 author_profile: true
+permalink: /
 ---
 
 # 👋 Hi, I'm Gerry Biwott
@@ -13,7 +13,8 @@ With a strong foundation in **cybersecurity**, **cloud architecture**, and **CI/
 
 ---
 
-### 💡 Core Interests
+## 💡 Core Interests
+
 - Cloud DevOps (AWS | Docker | Kubernetes)
 - CI/CD & Infrastructure Automation
 - Cybersecurity & Network Defense
@@ -24,4 +25,10 @@ With a strong foundation in **cybersecurity**, **cloud architecture**, and **CI/
 
 > “Technology, when fused with purpose and creativity, changes everything.”
 
-[View My Projects →](/projects/)
+---
+
+### 🌍 Explore My Work
+- [📄 Resume →](/resume/)
+- [💻 Projects →](/projects/)
+- [🧠 Lab Challenges →](/lab-challenges/)
+- [📬 Contact →](/contact/)
