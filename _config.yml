@@ -11,7 +11,7 @@ description: >-
 # Social handles (for SEO + footer)
 github_username: gerrybiwott
 linkedin_username: gerrybiwott
-minimal_mistakes_skin: teal
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -47,7 +47,7 @@ author:
     - label: "LinkedIn"
       url: "https://linkedin.com/in/gerrybiwott"
     - label: "GitHub"
-      url: "https://github.com/gerrybiwott"
+      url: "https://github.com/gerrykiptoo"
     - label: "Email"
       url: "mailto:gerrykiptoo@gmail.com"
 
@@ -61,7 +61,7 @@ footer:
       url: "https://linkedin.com/in/gerrybiwott"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gerrybiwott"
+      url: "https://github.com/gerrykiptoo"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:gerrykiptoo@gmail.com"
