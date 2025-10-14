@@ -36,5 +36,7 @@ author_profile: true
 - **Version Control:** Git & GitHub
 
 ---
+📄 [Download My Full PDF Resume](../assets/Gerry_Biwott_Modern_Professional_CV.pdf)
+
 
 
