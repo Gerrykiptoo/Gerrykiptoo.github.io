@@ -1,25 +1,28 @@
 # ========================================================
-#  GERRY BIWOTT | PORTFOLIO CONFIGURATION - MINIMAL MISTAKES
+#  GERRY KIPTOO BIWOTT | PORTFOLIO CONFIGURATION
+#  Theme: Minimal Mistakes
 # ========================================================
 
 title: "Gerry Biwott | Portfolio"
-email: gerrykiptoo@gmail.com
+email: "gerrykiptoo@gmail.com"
 description: >-
   Full Stack Developer & DevOps Engineer | Cloud & Security Specialist.
-  Passionate about building scalable systems, automating workflows, and integrating security in cloud infrastructure.
+  Passionate about building scalable systems, automating workflows,
+  and integrating security into modern cloud infrastructure.
 
-# Social handles (for SEO + footer)
-github_username: gerrykiptoo
-linkedin_username: gerrybiwott
-minimal_mistakes_skin: mint
-search: true
-
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+# --------------------------------------------------------
+# SITE SETTINGS
+# --------------------------------------------------------
+timezone: "Africa/Nairobi"
 permalink: /:categories/:title/
-timezone: Africa/Nairobi
+markdown: kramdown
+search: true
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "mint"
 
+# --------------------------------------------------------
+# INCLUDE & PLUGINS
+# --------------------------------------------------------
 include:
   - _pages
   - assets
@@ -32,23 +35,29 @@ plugins:
   - jekyll-seo-tag
 
 # --------------------------------------------------------
-# Author Information
+# AUTHOR PROFILE
 # --------------------------------------------------------
 author:
-  name   : "Gerry Kiptoo Biwott"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "Full Stack Developer & DevOps Engineer | Cloud & Security Specialist | Passionate about CI/CD, Automation & Scalable Cloud Systems."
+  name: "Gerry Kiptoo Biwott"
+  avatar: "/assets/images/profile.jpg"
+  bio: >-
+    Full Stack Developer & DevOps Engineer |
+    Cloud & Security Specialist |
+    Passionate about CI/CD, Automation, and Scalable Cloud Systems.
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/gerrybiwott"
     - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/gerrykiptoo"
     - label: "Email"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:gerrykiptoo@gmail.com"
 
 # --------------------------------------------------------
-# Footer links
+# FOOTER LINKS
 # --------------------------------------------------------
 footer:
   links:
@@ -63,14 +72,14 @@ footer:
       url: "mailto:gerrykiptoo@gmail.com"
 
 # --------------------------------------------------------
-# Defaults - Pages & Posts Layout
+# DEFAULT LAYOUTS
 # --------------------------------------------------------
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: single
+      layout: "single"
       author_profile: true
       read_time: false
       comments: false
@@ -79,13 +88,13 @@ defaults:
 
   - scope:
       path: "_pages"
-      type: pages
+      type: "pages"
     values:
-      layout: single
+      layout: "single"
       author_profile: true
 
 # --------------------------------------------------------
-# Navigation Menu
+# NAVIGATION MENU
 # --------------------------------------------------------
 nav:
   - title: "Home"
@@ -102,7 +111,7 @@ nav:
     url: /contact/
 
 # --------------------------------------------------------
-# Archives (optional)
+# ARCHIVES (OPTIONAL)
 # --------------------------------------------------------
 category_archive:
   type: liquid
