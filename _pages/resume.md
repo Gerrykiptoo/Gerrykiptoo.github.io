@@ -6,44 +6,60 @@ author_profile: true
 ---
 
 # 🎓 Academic Background
-- **Bachelor of Science in Bussiness information Technology**, [JOMO KENYATTA UNIVERSITY OF AGRICULTURE  SCIENCE AND TECHNOLOGY], [2022 - 2026]
-- **Certifications:**  
-  - AWS Certified Cloud Practitioner  
-  - IBM cybersecurity certificate  [jan 2025 - Aug 2025]
-  - DevOps certificate    (MORINGA SCHOOL)    
-  - FULL stack sofware developent certificate  ( 
-eMobilis Technology Training Institute)  
+
+- **Bachelor of Science in Business Information Technology**  
+  *Jomo Kenyatta University of Agriculture and Technology (JKUAT)*  
+  📅 *2022 – 2026*
+
+- **Professional Certifications**
+  - 🟢 **AWS Certified Cloud Practitioner**
+  - 🟣 **IBM Cybersecurity Analyst Certificate** *(Jan 2025 – Aug 2025)*
+  - 🟠 **DevOps Engineering Certificate** – Moringa School
+  - 🔵 **Full Stack Software Development Certificate** – eMobilis Technology Training Institute
 
 ---
 
-# 💼 Work Experience
-**DevOps engineer and software developer ** — Deveint technology limited  *(2024 – Present)*  
-- Deployed CI/CD pipelines with GitHub Actions and Docker  
-- Monitored AWS EC2 and S3 infrastructure using CloudWatch  
-- Assisted in automated vulnerability scanning  
+# 💼 Professional Experience
 
-**Cybersecurity Trainee** —  xylem networks   *(2021-2022)*  
-- Performed incident response simulations  
-- Used Wireshark, Metasploit, and Nmap for network assessment  
-
-**Junior DevOps Engineer**
--Collaborated with senior DevOps Engineers in script writing and
- -pipeline management,i also implemented the CI/CD which made
- -development and continuous deployment more efficient and
- -applicable to the application hence meeting the customers
- -requirements
----
-
-# 🧠 Skills
-- **Programming:** Python, JavaScript, Bash  
-- **Frameworks:** FastAPI, React  
-- **DevOps Tools:** Docker, GitHub Actions, Jenkins  
-- **Cloud:** AWS, DigitalOcean  
-- **Security:** Kali Linux, Nessus, Wireshark  
-- **Version Control:** Git & GitHub
+### **DevOps Engineer & Software Developer** — *Deveint Technology Ltd*  
+📅 *2024 – Present*  
+- Designed and deployed **CI/CD pipelines** using GitHub Actions and Docker.  
+- Monitored and optimized **AWS EC2 & S3** infrastructure with CloudWatch.  
+- Implemented **automated vulnerability scanning** for improved system security.  
+- Collaborated with cross-functional teams to streamline deployments and reduce downtime.
 
 ---
-📄 [Download My Full PDF Resume](../assets/Gerry_Biwott_Modern_Professional_CV.pdf)
 
+### **Cybersecurity Trainee** — *Xylem Networks*  
+📅 *2021 – 2022*  
+- Conducted **incident response simulations** and security audits.  
+- Utilized **Wireshark**, **Metasploit**, and **Nmap** for network penetration testing.  
+- Assisted in drafting system-hardening policies and risk analysis reports.
 
+---
+
+### **Junior DevOps Engineer**  
+📅 *2023*  
+- Supported senior engineers in **pipeline automation** and **script optimization**.  
+- Implemented a **CI/CD system** that enhanced deployment efficiency by 40%.  
+- Helped align deployment processes with customer requirements and uptime SLAs.
+
+---
+
+# 🧠 Technical Skills
+
+| **Category** | **Tools & Technologies** |
+|---------------|--------------------------|
+| **Programming** | Python, JavaScript, Bash |
+| **Frameworks** | FastAPI, React |
+| **DevOps Tools** | Docker, GitHub Actions, Jenkins |
+| **Cloud Platforms** | AWS, DigitalOcean |
+| **Security Tools** | Kali Linux, Nessus, Wireshark |
+| **Version Control** | Git & GitHub |
+
+---
+
+### 📄 [**Download Full PDF Resume →**](../assets/Gerry_Biwott_Modern_Professional_CV.pdf)
+
+---
 
