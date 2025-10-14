@@ -12,7 +12,7 @@ author_profile: true
   📅 *2022 – 2026*
 
 - **Professional Certifications**
-  - 🟢 **AWS Certified Cloud Practitioner**
+  
   - 🟣 **IBM Cybersecurity Analyst Certificate** *(Jan 2025 – Aug 2025)*
   - 🟠 **DevOps Engineering Certificate** – Moringa School
   - 🔵 **Full Stack Software Development Certificate** – eMobilis Technology Training Institute
