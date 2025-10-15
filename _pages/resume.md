@@ -46,7 +46,7 @@ author_profile: true
 
 ---
 
-# 🧠 Technical Skills
+# 🧠 Technical Skillsg
 
 | **Category** | **Tools & Technologies** |
 |---------------|--------------------------|
@@ -59,7 +59,7 @@ author_profile: true
 
 ---
 
-### 📄 [**Download Full PDF Resume →**](../assets/Gerry_Biwott_Modern_Professional_CV.pdf)
+### 📄 [**Download Full PDF Resume →**](../assets/GERRY KIPTOO BIWOTT CV.pdf)
 
 ---
 
