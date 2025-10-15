@@ -59,7 +59,8 @@ author_profile: true
 
 ---
 
-### 📄 [📄 Download My Resume (PDF)](/assets/file/GERRY%20KIPTOO%20BIWOTT%20CV%20(1).pdf)
+### [📄 Download My Resume (PDF)](/assets/file/GERRY%20KIPTOO%20%20BIWOTT%20CV%20(1).pdf)
+
 
 
 ---
