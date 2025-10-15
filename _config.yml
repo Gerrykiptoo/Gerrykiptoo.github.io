@@ -6,7 +6,9 @@
 title: "Gerry Biwott | Portfolio"
 email: "gerrykiptoo@gmail.com"
 description: >-
- -DevOps & Cloud Engineer | Building scalable, secure, and automated systems.
+  Full Stack Developer & DevOps Engineer | Cloud & Security Specialist.
+  Passionate about building scalable systems, automating workflows, and integrating security into modern cloud infrastructure.
+
 
 # --------------------------------------------------------
 # SITE SETTINGS
@@ -40,10 +42,9 @@ plugins:
 author:
   name: "Gerry Kiptoo Biwott"
   avatar: "/assets/images/profile.jpg"
-  bio: >-
-    Full Stack Developer & DevOps Engineer |
-    Cloud & Security Specialist |
-    Passionate about CI/CD, Automation, and Scalable Cloud Systems.
+bio: >-
+  Full Stack & DevOps Engineer | Cloud Security & Automation Enthusiast.
+
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
