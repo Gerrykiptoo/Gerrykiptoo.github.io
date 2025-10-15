@@ -42,9 +42,8 @@ plugins:
 author:
   name: "Gerry Kiptoo Biwott"
   avatar: "/assets/images/profile.jpg"
-bio: >-
-  Full Stack & DevOps Engineer | Cloud Security & Automation Enthusiast.
-
+  bio: >-
+    Full Stack & DevOps Engineer | Cloud Security & Automation Enthusiast.
   location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
@@ -56,6 +55,7 @@ bio: >-
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:gerrykiptoo@gmail.com"
+
 
 # --------------------------------------------------------
 # FOOTER LINKS
