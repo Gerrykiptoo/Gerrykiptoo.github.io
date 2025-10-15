@@ -59,7 +59,7 @@ author_profile: true
 
 ---
 
-### 📄 [**Download Full PDF Resume →**](../assets/GERRY KIPTOO BIWOTT CV (1).pdf)
+### 📄 [**Download Full PDF Resume →**](../assets/file/GERRY KIPTOO BIWOTT CV (1).pdf)
 
 ---
 
